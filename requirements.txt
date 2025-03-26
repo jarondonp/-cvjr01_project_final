@@ -1,0 +1,27 @@
+# Dependencias base y protobuf (deben instalarse primero)
+protobuf==3.20.0
+setuptools>=65.5.0
+six>=1.17.0
+
+# TensorFlow y sus dependencias
+tensorflow==2.8.0
+numpy==1.26.0
+
+# Computer Vision y Machine Learning
+deepface==0.0.79
+opencv-python-headless==4.11.0.86
+Pillow==10.4.0
+scikit-learn==1.6.1
+scipy==1.15.2
+
+# Visualización y UI
+streamlit==1.31.0
+matplotlib==3.7.1
+
+# Procesamiento de datos
+pandas==2.2.3
+python-dateutil==2.9.0.post0
+
+# Utilidades
+python-dotenv==1.0.0
+requests==2.32.3
